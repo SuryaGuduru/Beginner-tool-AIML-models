@@ -1,0 +1,10 @@
+You have use Linear Regression model 
+
+The columns used for features are ['YearsExperience'] and the targetted columns are ['Salary']
+
+The Hyper parameters used in the model are initiated as fit_intercept - 1 , normalize - 0
+
+The train accuracy of the model is 0.9588227359335331 and The test accuracy of the model is are and 0.8931191056413033
+
+The model is Excellent
+The User inputs were [7.0] and the predicted output was [91895.97330637]
